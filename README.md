@@ -127,8 +127,6 @@ KTF/
 
 ## Core Implementation
 
-## Core Implementation
-
 ### 1. 다중 던전 콘텐츠 구조
 
 골드·장비·별자리·타워·각성·길드보스·타임어택 등 다양한 던전을 하나의 `DungeonScene`에서 파라미터로 분기하여 관리했다.
