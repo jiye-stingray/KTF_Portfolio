@@ -123,6 +123,8 @@ KTF/
 └── Packages/
 ```
 
+이 저장소에서는 본인이 구현한 일부 코드와 작업물만 존재합니다. 
+
 <br/>
 
 ## Core Implementation
